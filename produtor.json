@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Calça jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/calcajeans.jpeg"
+    },
+    {
+     
+        "nome": "Vestido florido",
+        "tamanho": "38 ao 48",
+        "preco": 149.90,
+        "imagem": "img/vestidoflorido.jpg"   
+    },
+    {
+     
+        "nome": "Tenis feminino",
+        "tamanho": "35 ao 40",
+        "preco": 100.00,
+        "imagem": "img/tenisfeminino.jpg"   
+    },
+    {
+     
+        "nome": "Tenis masculino",
+        "tamanho": "35 ao 42",
+        "preco": 130.00,
+        "imagem": "img/tenismasculino.webp"   
+    },
+    {
+     
+        "nome": "Maio praiano",
+        "tamanho": "38 ao 48",
+        "preco": 139.99,
+        "imagem": "img/maiopraiano.webp"   
+    },
+    {
+     
+        "nome": "Moletom Masculino e Feminino",
+        "tamanho": "P,M,G,GG e XGG",
+        "preco": 159.90,
+        "imagem": "img/moletom.webp"   
+    },
+]
